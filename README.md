@@ -77,7 +77,7 @@ ___
 
     npm start
 
-    npm build
+    npm run build
 ```
 
 ```javascript
